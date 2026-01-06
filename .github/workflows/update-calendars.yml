@@ -1,0 +1,59 @@
+name: Update Legislative Calendars
+
+on:
+  # Run every Monday at 9am UTC (4am EST / 1am PST)
+  schedule:
+    - cron: '0 9 * * 1'
+  
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+  
+  # Run on push to main (for testing)
+  push:
+    branches:
+      - main
+    paths:
+      - 'generate_2026_calendars_v3.py'
+      - '.github/workflows/update-calendars.yml'
+
+jobs:
+  update-calendars:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install icalendar pytz
+      
+      - name: Generate calendars
+        run: |
+          python3 generate_2026_calendars_v3.py
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet output/*.ics || echo "changes=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add output/*.ics
+          git commit -m "Auto-update legislative calendars [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: No changes
+        if: steps.check_changes.outputs.changes != 'true'
+        run: |
+          echo "No changes to calendar files"
