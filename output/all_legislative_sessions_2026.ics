@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Beekeeper Group//Legislative Calendar 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Federal and state legislative session dates for 2026
+X-WR-CALNAME:Legislative Sessions Calendar 2026
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:U.S. House of Representatives - In Session
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260106T152224Z
+UID:US_House-2026-main@legislative-calendar.beekeepergroup.com
+DESCRIPTION:120th Congress\, 1st Session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Senate - In Session
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260106T152224Z
+UID:US_Senate-2026-main@legislative-calendar.beekeepergroup.com
+DESCRIPTION:120th Congress\, 1st Session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:California State Legislature - In Session
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260106T152224Z
+UID:California-2026-main@legislative-calendar.beekeepergroup.com
+DESCRIPTION:2025-2026 Regular Session (Even year - ends Aug 31)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana General Assembly - In Session
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260315
+DTSTAMP:20260106T152224Z
+UID:Indiana-2026-main@legislative-calendar.beekeepergroup.com
+DESCRIPTION:2026 Regular Session (30 days - even year)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missouri General Assembly - In Session
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260516
+DTSTAMP:20260106T152224Z
+UID:Missouri-2026-main@legislative-calendar.beekeepergroup.com
+DESCRIPTION:2026 Regular Session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia General Assembly - In Session
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260407
+DTSTAMP:20260106T152224Z
+UID:Georgia-2026-main@legislative-calendar.beekeepergroup.com
+DESCRIPTION:2026 Regular Session (40 legislative days)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Carolina General Assembly - In Session
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260508
+DTSTAMP:20260106T152224Z
+UID:South_Carolina-2026-main@legislative-calendar.beekeepergroup.com
+DESCRIPTION:2026 Regular Session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama Legislature - In Session
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260328
+DTSTAMP:20260106T152224Z
+UID:Alabama-2026-main@legislative-calendar.beekeepergroup.com
+DESCRIPTION:2026 Regular Session (30 legislative days in 105 calendar days
+ )
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virginia General Assembly - In Session
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260315
+DTSTAMP:20260106T152224Z
+UID:Virginia-2026-main@legislative-calendar.beekeepergroup.com
+DESCRIPTION:2026 Regular Session (60 calendar days - even year)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Beekeeper Group//Legislative Calendar 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Federal and state legislative session dates for 2026
+X-WR-CALNAME:Legislative Sessions Calendar 2026
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:U.S. House of Representatives - In Session
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260106T152224Z
+UID:US_House-2026-main@legislative-calendar.beekeepergroup.com
+DESCRIPTION:120th Congress\, 1st Session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U.S. Senate - In Session
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260106T152224Z
+UID:US_Senate-2026-main@legislative-calendar.beekeepergroup.com
+DESCRIPTION:120th Congress\, 1st Session
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

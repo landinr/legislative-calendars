@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Beekeeper Group//Legislative Calendar 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Federal and state legislative session dates for 2026
+X-WR-CALNAME:Legislative Sessions Calendar 2026
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Alabama Legislature - In Session
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260328
+DTSTAMP:20260106T152224Z
+UID:Alabama-2026-main@legislative-calendar.beekeepergroup.com
+DESCRIPTION:2026 Regular Session (30 legislative days in 105 calendar days
+ )
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
