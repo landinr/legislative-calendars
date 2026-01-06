@@ -13,7 +13,7 @@ on:
     branches:
       - main
     paths:
-      - 'generate_2026_calendars_v3.py'
+      - 'generate_2026_calendars.py'
       - '.github/workflows/update-calendars.yml'
 
 jobs:
@@ -35,7 +35,7 @@ jobs:
       
       - name: Generate calendars
         run: |
-          python3 generate_2026_calendars_v3.py
+          python3 generate_2026_calendars.py
       
       - name: Check for changes
         id: check_changes
