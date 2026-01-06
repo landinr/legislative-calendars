@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Beekeeper Group//Legislative Calendar 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Legislative session periods (excludes weekends\, holidays\, r
+ ecesses)
+X-WR-CALNAME:Legislative Sessions Calendar 2026
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Arkansas Legislature - In Session (3 days)
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260411
+DTSTAMP:20260106T164359Z
+UID:Arkansas-2026-block-0@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas Legislature - In Session (5 days)
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260418
+DTSTAMP:20260106T164359Z
+UID:Arkansas-2026-block-1@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas Legislature - In Session (5 days)
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260425
+DTSTAMP:20260106T164359Z
+UID:Arkansas-2026-block-2@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas Legislature - In Session (5 days)
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260502
+DTSTAMP:20260106T164359Z
+UID:Arkansas-2026-block-3@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas Legislature - In Session (4 days)
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260508
+DTSTAMP:20260106T164359Z
+UID:Arkansas-2026-block-4@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

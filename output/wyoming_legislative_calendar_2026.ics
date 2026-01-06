@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Beekeeper Group//Legislative Calendar 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Legislative session periods (excludes weekends\, holidays\, r
+ ecesses)
+X-WR-CALNAME:Legislative Sessions Calendar 2026
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Wyoming Legislature - In Session (5 days)
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260214
+DTSTAMP:20260106T164359Z
+UID:Wyoming-2026-block-0@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wyoming Legislature - In Session (4 days)
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260221
+DTSTAMP:20260106T164359Z
+UID:Wyoming-2026-block-1@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wyoming Legislature - In Session (5 days)
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260228
+DTSTAMP:20260106T164359Z
+UID:Wyoming-2026-block-2@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wyoming Legislature - In Session (5 days)
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260307
+DTSTAMP:20260106T164359Z
+UID:Wyoming-2026-block-3@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

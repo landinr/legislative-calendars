@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Beekeeper Group//Legislative Calendar 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Legislative session periods (excludes weekends\, holidays\, r
+ ecesses)
+X-WR-CALNAME:Legislative Sessions Calendar 2026
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (4 days)
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260425
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-0@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260502
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-1@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260509
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-2@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260516
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-3@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260523
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-4@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (4 days)
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260530
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-5@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260606
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-6@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-7@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260620
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-8@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260627
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-9@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (4 days)
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260703
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-10@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260711
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-11@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260718
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-12@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260725
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-13@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260801
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-14@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260808
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-15@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260815
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-16@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260822
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-17@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session (5 days)
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260829
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-18@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina General Assembly - In Session
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260106T164359Z
+UID:North_Carolina-2026-block-19@legislative-calendar.beekeepergroup.com
+DESCRIPTION:Legislature in session
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
